@@ -6,4 +6,4 @@ This script just creates keybind for an existing M1 reset script. Otherwise, you
 
 ## How to run?
 
-Just press ```R``` key after ```3 M1````
+Just press ```R``` key after ```3 M1```
