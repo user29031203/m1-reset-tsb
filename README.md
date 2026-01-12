@@ -1,5 +1,9 @@
 # M1 Reset TSB
 
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/user29031203/m1-reset-tsb/refs/heads/main/main.lua"))()
+```
+
 This script just creates keybind for an existing M1 reset script. Otherwise, you'd have to press the button in the upper left corner manually by switching shiftlock and moving your cursor. It should work on almost all executors. 
 
 > I am not the owner of [M1 reset script](https://raw.githubusercontent.com/minhnhatdepzai8-cloud/The-Strongest-BattleGround/refs/heads/main/M1RESET.lua.txt) created by [MinhNhatHUB](https://scriptblox.com/u/minhnhathub)
@@ -7,3 +11,5 @@ This script just creates keybind for an existing M1 reset script. Otherwise, you
 ## How to run?
 
 Just press ```R``` key after ```3 M1```
+
+
