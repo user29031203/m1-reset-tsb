@@ -1,5 +1,5 @@
 # M1 Reset TSB
 
-This script just creates keybind for the a existing M1 reset script. Otherwise, you'd have to press it manually by switching shiftlock. It should work on almost all executors.
+This script just creates keybind for an existing M1 reset script. Otherwise, you'd have to press the button in the upper left corner manually by switching shiftlock and moving your cursor. It should work on almost all executors. Now, just press ```R``` key!
 
 > I am not the owner of [M1 reset script](https://raw.githubusercontent.com/minhnhatdepzai8-cloud/The-Strongest-BattleGround/refs/heads/main/M1RESET.lua.txt) created by [MinhNhatHUB](https://scriptblox.com/u/minhnhathub)
